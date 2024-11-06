@@ -12,6 +12,7 @@ function isSameMonth(date1, date2) {
     );
 }
 
+
 // Add Expenses Function
 async function addExpenses(req, res) {
     try {
